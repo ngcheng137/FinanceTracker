@@ -22,8 +22,6 @@ export const Auth = ({ type }) => {
             alert("Error while signing up");
         }
     }
-    //eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkRlbW8gQWNjb3VudCJ9.wV31urM7wY35cs9bfCqCFUnhiVwzVlFm6FDHyQgmYN4
-
     return (
         <div className="h-screen flex justify-center flex-col">
             <div className="flex justify-center">
