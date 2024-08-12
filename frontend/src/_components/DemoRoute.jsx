@@ -3,7 +3,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 function DemoRoute(){
-    const demoToken = ""
+    const demoToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkRlbW8gQWNjb3VudCJ9.wV31urM7wY35cs9bfCqCFUnhiVwzVlFm6FDHyQgmYN4"
     const navigate = useNavigate(); 
     function handleAccess(){
         localStorage.setItem("token", demoToken);
