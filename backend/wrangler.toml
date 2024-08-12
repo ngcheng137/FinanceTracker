@@ -1,10 +1,9 @@
-name = "square-fog-ec53"
+name = "square-fog-ec5"
 compatibility_date = "2024-07-30"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMTFkZDIwMTUtNzk2MS00NzNiLWE4YjctMGMzMzBiN2JmMGYwIiwidGVuYW50X2lkIjoiZTExZDg0OWIyMmQxYjE5N2NlZGU3MTA5NjY4YTM5NjU5Njc5MjgxZjFlNGVmZWFlYWNmOGJlNjU2ZWRjYzBlMSIsImludGVybmFsX3NlY3JldCI6ImE0YzBlNDFhLWIxOWUtNGJjNS1hY2Y5LTUyMmVkZTgwYzQwNCJ9.0GJrRHiyiMQ4BB9SHwkiIc1XShso-WIz3_NOvRbQ-PU"
-
-JWT_SECRET="ninjadojoshifuyoshimarioluigipeachbowser"
+DATABASE_URL=""
+JWT_SECRET=""
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
